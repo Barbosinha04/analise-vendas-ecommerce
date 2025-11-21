@@ -1,0 +1,18 @@
+# Ignorar arquivos de configuração da IDE (PyCharm/VSCode)
+.idea/
+.vscode/
+*.iml
+*.xml
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais (se houver)
+venv/
+env/
+.env
+
+# Ignorar a pasta de gráficos (opcional, mas recomendado se o script gera eles na hora)
+# Se você quiser exibir os gráficos no README, NÃO ignore esta pasta.
+# graficos/
