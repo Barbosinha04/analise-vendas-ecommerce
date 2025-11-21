@@ -1,6 +1,6 @@
 # Projeto Final: Análise de Vendas E-commerce
 
-**Autor:** [Seu Nome Completo Aqui]
+**Autor:** Gabriel Vendiciano Barbosa
 **Curso:** Data Science
 
 ---
