@@ -24,11 +24,11 @@ O projeto foi estruturado nas seguintes etapas:
 
 ## 3. Análise Exploratória: Principais Descobertas
 
-![Evolução das Vendas Mensais](graficos/vendas_mensais.png)
+
 
 * Observa-se uma clara sazonalidade, com picos de vendas nos meses de Novembro e Dezembro, consistentes com os períodos de Black Friday e Natal.
 
-![Total de Vendas por Categoria](graficos/vendas_por_categoria.png)
+
 
 * A categoria "Eletrônicos" domina o faturamento, devido ao seu alto valor agregado por item.
 
